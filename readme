@@ -1,0 +1,23 @@
+### Step 1:
+
+### Install Typescript
+
+### npm install -g typescript
+
+### Step 2:
+
+### Check Typescript Version
+
+### npx tsc
+
+### Step 3:
+
+### Create tsconfig.json file
+
+### tsc --init
+
+### Step 4:
+
+### Run Typescript project
+
+### tsc
